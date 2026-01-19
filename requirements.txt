@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Flask
+=======
+flask
+>>>>>>> 5770a1f (Add requirements and basic test)
 pytest
